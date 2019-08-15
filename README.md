@@ -28,6 +28,6 @@ Make sure that the load balancer can automatically replace VMs, when
 Disclaimer: The solution in this repo just solves the above question and is not a proper production setup.
 
 # TODO
-Better Documentation
-Better Networking
-More use of variables to make solution more generic
+* Better Documentation
+* Better Networking
+* More use of variables to make solution more generic
